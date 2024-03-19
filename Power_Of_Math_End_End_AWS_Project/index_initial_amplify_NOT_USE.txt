@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>To the POWER OF MATH!!!</title>
+</head>
+
+<body>
+	To the Power Of Math!
+</body>
+</html>
