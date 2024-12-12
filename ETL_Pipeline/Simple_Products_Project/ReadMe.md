@@ -10,10 +10,9 @@
     - Clean and process the data.
 
     Examples:
-       - Handle missing values (if any).
    
-       - Add calculated fields, like total stock value (price * stock_quantity).
-   
+       - Handle missing values (if any).   
+       - Add calculated fields, like total stock value (price * stock_quantity).   
        - Normalize data, e.g., converting product names to lowercase.
 
 4. Load
