@@ -10,10 +10,12 @@
     - Clean and process the data.
 
     Examples:
-        Handle missing values (if any).
-        Add calculated fields, like total stock value (price * stock_quantity).
-        Normalize data, e.g., converting product names to lowercase.
+       - Handle missing values (if any).
+   
+       - Add calculated fields, like total stock value (price * stock_quantity).
+   
+       - Normalize data, e.g., converting product names to lowercase.
 
-3. Load
+4. Load
     - Store the transformed data into a PostgreSQL database.
     - Use libraries like SQLAlchemy or psycopg2 for database operations.
