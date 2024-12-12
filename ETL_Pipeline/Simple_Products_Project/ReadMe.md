@@ -1,6 +1,6 @@
 # Built a Simple ETL Project with Products data
 
-** ETL Steps **
+**ETL Steps**
 
 1. Extract
     - Read the data from the CSV file into a Python program.
