@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_quantity
+1,Apple iPhone 14,Smartphones,799.99,150
+2,Samsung Galaxy S22,Smartphones,,200
+3,MacBook Pro 16",Laptops,2399.99,50
+4,Dell XPS 13,Laptops,999.99,
+5,PlayStation 5,Consoles,,100
+6,Xbox Series X,Consoles,499.99,120
+7,Bose Noise Cancelling Headphones 700,Headphones,379.99,
+8,Apple AirPods Pro 2,Headphones,249.99,300
+9,Canon EOS 5D Mark IV,Camera,,30
+10,Sony Alpha a7 III,Camera,1799.99,40
